@@ -1,5 +1,0 @@
-Add_Exercise.cpp
-This program reads two numbers from the user, adds them up, and      
-prints it out to the console. The program uses function ReadNumber() to get the   
-number, and function WriteAnswer() to write to the console. 
-
