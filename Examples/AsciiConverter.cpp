@@ -15,6 +15,7 @@
 #include "stdafx.h"
 #include <iostream>
 
+// This function takes the ASCII decimal number and outputs the character mapped to it
 void AsciiToChar()
 {
 	std::cout << "Enter an ASCII decimal value: ";
@@ -24,6 +25,7 @@ void AsciiToChar()
 		      << char(x);
 }
 
+// This function takes a character and outputs its corresponding ASCII decimal value
 void CharToAscii()
 {
 	std::cout << "Enter a single character: ";
@@ -32,6 +34,7 @@ void CharToAscii()
 	std::cout << std::endl << "Your character has the ASCII value: " << int(x);
 }
 
+// This is the main function
 int main()
 {
 	std::cout << "ASCII Converter" << std::endl << std::endl;
@@ -39,7 +42,7 @@ int main()
 		<< std::endl << "[3]  Exit" << std::endl << std::endl;
 	int y;
 	std::cin >> y;
-	if (y == 1)
+	if (y == 1)					// if statement is used for option menu
 	{
 		std::cout << std::endl << std::endl;
 		AsciiToChar();
@@ -53,7 +56,6 @@ int main()
 	{
 		std::cout << std::endl << std::endl << "Good bye!!";
 	}
-
 	std::getchar();
 	std::getchar();
 	return 0;
