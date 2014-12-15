@@ -54,8 +54,7 @@ int main()
 		std::cout << std::endl << std::endl << "Good bye!!";
 	}
 
-	std::cout << " wawawawwa \97";
-	std::getchar(); std::getchar();
+	std::getchar();
 	std::getchar();
 	return 0;
 }
