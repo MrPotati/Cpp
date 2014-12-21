@@ -15,3 +15,7 @@ OnlineAdsCalculator.cpp
  This program requests the number of visitors to a website, the % of people 
  who clicked on the ad and the money received per click. Then, calculates
  the total revenue at the end of the day. For this example we use structures.  
+
+FractionMultiplier.cpp
+ This program requests to input two fractions, then multiplies them and shows the
+ result in decimals. For this examples, each fraction is created using structures.  
