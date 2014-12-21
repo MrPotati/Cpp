@@ -10,3 +10,8 @@ AsciiConverter.cpp
 SimpleCalculator.cpp
  This program requests two numbers and then asks if you want to add, 
  subtract, multiply or divide them.
+
+OnlineAdsCalculator.cpp
+ This program requests the number of visitors to a website, the % of people 
+ who clicked on the ad and the money received per click. Then, calculates
+ the total revenue at the end of the day. For this example we use structures.  
