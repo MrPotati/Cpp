@@ -21,6 +21,21 @@ FractionMultiplier.cpp
  result in decimals. For this examples, each fraction is created using structures.  
 
 SimpleCalculator2.cpp
-  This program requests two numbers and then asks if you want to add, subtract, 
-  multiply or divide them. This version uses a function calculate() which uses 
-  switch statements.  
+ This program requests two numbers and then asks if you want to add, subtract, 
+ multiply or divide them. This version uses a function calculate() which uses 
+ switch statements.  
+
+PrintArrayWForLoop.cpp 
+ This example declares an array with assigned values and uses a for loop to print 
+ each value in the array.
+
+PrintValueInArray.cpp
+ This example declares an array with assigned values. Then requests   
+ the user the index number and prints the equivalent value in the array using
+ if and goto statements.
+
+PrintIndexInArray.cpp
+ This example declares an array with assigned values. Then requests   
+ the user a number from 0 through 9, which is then matched to the index number in  
+ the array. Then the index number and its respective value are printed.            
+ The program uses loops and relational operators to go through the array.
