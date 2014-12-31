@@ -39,3 +39,8 @@ PrintIndexInArray.cpp
  the user a number from 0 through 9, which is then matched to the index number in  
  the array. Then the index number and its respective value are printed.            
  The program uses loops and relational operators to go through the array.
+
+SortArray.cpp
+ This example declares and prints an array with assigned values. 	 
+ Then sorts the numbers in the array from lowest to highest and prints the new     
+ array values.
