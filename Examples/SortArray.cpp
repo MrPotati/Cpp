@@ -9,7 +9,7 @@
 //                                                                                   //
 // Description: This example declares and prints an array with assigned values. 	 //
 // Then sorts the numbers in the array from lowest to highest and prints the new     //
-// array values.
+// array values.																	 //
 //                                                                                   //
 ///////////////////////////////////////////////////////////////////////////////////////
 
